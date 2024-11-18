@@ -1,4 +1,4 @@
-# Desafio-BCP-SECURITIES
+# Solução Desafio-BCP-SECURITIES Thais Angelo
 
 ## Visão Geral
 Este projeto foi desenvolvido como parte do desafio técnico para o processo seletivo de estágio em Análise de Dados na BCP Securities.
@@ -54,7 +54,7 @@ Para instalar as dependências, execute:
 
 ```bash
 pip install pandas matplotlib requests openpyxl xlrd
-
+```
 
 ## Dashboard Interativo (*Extra*)
 
